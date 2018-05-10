@@ -1,6 +1,6 @@
 name: bulma_min
 description: Bulma is a CSS Framework. This package contains its minified assets to include in your project.
-version: 0.6.2
+version: 0.7.1
 homepage: https://github.com/agilord/bulma_min
 author: team@agilord.com
 
