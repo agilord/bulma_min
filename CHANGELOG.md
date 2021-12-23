@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.9.3
+
+- Upgraded to `bulma` `0.9.3`
+
 ## 0.7.4
 
 - Upgraded to `bulma` `0.7.4`
